@@ -1,0 +1,6 @@
+com\drawing\domain\Rectangle.class
+com\drawing\CommandConstants.class
+com\drawing\domain\Canvas.class
+com\drawing\domain\Line.class
+com\drawing\App.class
+com\drawing\domain\Point.class
